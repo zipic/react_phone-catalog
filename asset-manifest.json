@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "./static/css/main.38979d2f.chunk.css",
-    "main.js": "./static/js/main.bad5d51b.chunk.js",
-    "main.js.map": "./static/js/main.bad5d51b.chunk.js.map",
+    "main.css": "./static/css/main.20e52aae.chunk.css",
+    "main.js": "./static/js/main.ac910dda.chunk.js",
+    "main.js.map": "./static/js/main.ac910dda.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.330dba63.js",
     "runtime-main.js.map": "./static/js/runtime-main.330dba63.js.map",
     "static/js/2.bb65dc33.chunk.js": "./static/js/2.bb65dc33.chunk.js",
     "static/js/2.bb65dc33.chunk.js.map": "./static/js/2.bb65dc33.chunk.js.map",
     "index.html": "./index.html",
-    "static/css/main.38979d2f.chunk.css.map": "./static/css/main.38979d2f.chunk.css.map",
+    "static/css/main.20e52aae.chunk.css.map": "./static/css/main.20e52aae.chunk.css.map",
     "static/js/2.bb65dc33.chunk.js.LICENSE.txt": "./static/js/2.bb65dc33.chunk.js.LICENSE.txt",
     "static/media/style.scss": "./static/media/HeartLike.e06f6852.svg",
     "static/media/App.scss": "./static/media/Mont-SemiBold.aa84a199.ttf"
@@ -16,7 +16,7 @@
   "entrypoints": [
     "static/js/runtime-main.330dba63.js",
     "static/js/2.bb65dc33.chunk.js",
-    "static/css/main.38979d2f.chunk.css",
-    "static/js/main.bad5d51b.chunk.js"
+    "static/css/main.20e52aae.chunk.css",
+    "static/js/main.ac910dda.chunk.js"
   ]
 }
